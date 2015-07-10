@@ -1,0 +1,32 @@
+{
+  "name": "MyFirstBowerContact",
+  "version": "1.0.0",
+  "authors": [
+    "Elkin Contreras <elconder@gmail.com>"
+  ],
+  "description": "This is my first bower project",
+  "main": "file.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "My",
+    "Key",
+    "Words",
+    "For",
+    "This",
+    "Project"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.une.com.co",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.4"
+  }
+}
